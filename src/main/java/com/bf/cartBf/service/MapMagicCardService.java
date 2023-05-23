@@ -2,9 +2,7 @@ package com.bf.cartBf.service;
 
 import com.bf.cartBf.database.entity.MapMagic;
 import com.bf.cartBf.database.repository.MapMagicRepository;
-import com.bf.cartBf.database.repository.SettingCardsRepository;
 import com.bf.cartBf.util.MethodSelection;
-import lombok.NoArgsConstructor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
